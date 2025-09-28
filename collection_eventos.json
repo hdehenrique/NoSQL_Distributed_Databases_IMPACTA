@@ -1,0 +1,76 @@
+[
+  {
+    "_id": "E10001",
+    "cliente_id": "C1234",
+    "produto_id": "P1001",
+    "tipo_evento": "compra",
+    "quantidade": 1,
+    "valor_total": 79.90,
+    "data_evento": "2025-09-28T15:30:00Z",
+    "localizacao": {
+      "estado": "SP",
+      "cidade": "Sorocaba"
+    }
+  },
+  {
+    "_id": "E10002",
+    "cliente_id": "C1235",
+    "produto_id": "P2001",
+    "tipo_evento": "clique",
+    "data_evento": "2025-09-28T16:00:00Z",
+    "localizacao": {
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro"
+    }
+  },
+  {
+    "_id": "E10003",
+    "cliente_id": "C1236",
+    "produto_id": "P3001",
+    "tipo_evento": "compra",
+    "quantidade": 2,
+    "valor_total": 499.80,
+    "data_evento": "2025-09-28T16:15:00Z",
+    "localizacao": {
+      "estado": "MG",
+      "cidade": "Belo Horizonte"
+    }
+  },
+  {
+    "_id": "E10004",
+    "cliente_id": "C1234",
+    "produto_id": "P1002",
+    "tipo_evento": "compra",
+    "quantidade": 1,
+    "valor_total": 59.90,
+    "data_evento": "2025-09-27T12:00:00Z",
+    "localizacao": {
+      "estado": "SP",
+      "cidade": "Sorocaba"
+    }
+  },
+  {
+    "_id": "E10005",
+    "cliente_id": "C1237",
+    "produto_id": "P2002",
+    "tipo_evento": "clique",
+    "data_evento": "2025-09-28T17:00:00Z",
+    "localizacao": {
+      "estado": "RS",
+      "cidade": "Porto Alegre"
+    }
+  },
+  {
+    "_id": "E10006",
+    "cliente_id": "C1238",
+    "produto_id": "P3002",
+    "tipo_evento": "compra",
+    "quantidade": 1,
+    "valor_total": 199.90,
+    "data_evento": "2025-09-28T18:00:00Z",
+    "localizacao": {
+      "estado": "BA",
+      "cidade": "Salvador"
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "_id": "P1001",
+    "nome": "Livro: O Senhor dos Anéis",
+    "categoria": "livro",
+    "preco": 79.90,
+    "estoque": 50,
+    "atributos": {
+      "autor": "J.R.R. Tolkien",
+      "editora": "HarperCollins",
+      "isbn": "978-0261102385",
+      "paginas": 1216
+    }
+  },
+  {
+    "_id": "P1002",
+    "nome": "Livro: Harry Potter e a Pedra Filosofal",
+    "categoria": "livro",
+    "preco": 59.90,
+    "estoque": 80,
+    "atributos": {
+      "autor": "J.K. Rowling",
+      "editora": "Rocco",
+      "isbn": "978-8532510073",
+      "paginas": 309
+    }
+  },
+  {
+    "_id": "P2001",
+    "nome": "CD: Thriller",
+    "categoria": "cd",
+    "preco": 39.90,
+    "estoque": 100,
+    "atributos": {
+      "artista": "Michael Jackson",
+      "gravadora": "Epic Records",
+      "ano_lancamento": 1982
+    }
+  },
+  {
+    "_id": "P2002",
+    "nome": "CD: Abbey Road",
+    "categoria": "cd",
+    "preco": 49.90,
+    "estoque": 60,
+    "atributos": {
+      "artista": "The Beatles",
+      "gravadora": "Apple Records",
+      "ano_lancamento": 1969
+    }
+  },
+  {
+    "_id": "P3001",
+    "nome": "Liquidificador XYZ",
+    "categoria": "eletrodoméstico",
+    "preco": 249.90,
+    "estoque": 30,
+    "atributos": {
+      "voltagem": "220V",
+      "capacidade_litros": 1.5,
+      "marca": "XYZ"
+    }
+  },
+  {
+    "_id": "P3002",
+    "nome": "Batedeira ABC",
+    "categoria": "eletrodoméstico",
+    "preco": 199.90,
+    "estoque": 25,
+    "atributos": {
+      "voltagem": "110V",
+      "capacidade_litros": 2,
+      "marca": "ABC"
+    }
+  }
+]
