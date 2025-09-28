@@ -60,6 +60,3 @@ Nosso desafio foi organizar esses dados usando **MongoDB** de um jeito que seja 
 - O comando MongoDB que faz isso está no arquivo **`command_mongo.sh`**.  
 - Ele filtra apenas compras, soma quantidades por produto e estado, e retorna os 20 produtos mais vendidos em cada estado.
 
----
-
-## **Como está organizado o repositório**
