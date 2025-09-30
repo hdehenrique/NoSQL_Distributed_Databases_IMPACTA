@@ -3,9 +3,14 @@ NoSQL and Distributed Databases - Caso de Estudo NoSQL Documento (Silas Tailer)
 
 # Caso de Estudo NoSQL - Amazonas
 
-
 ## **Responsável**
-- Henrique Ferreira Santos
+- Henrique Ferreira Santos - 2502307
+- Marcio Soares de Oliveira - 2500306
+- Silvio Cezar Teles - 2502503
+- Bianca Pereira de Lima Lourenço - 2301749
+- Vinícius Julio - 2500392
+- Leonardo Nascimento - 2501921
+
 
 ---
 
