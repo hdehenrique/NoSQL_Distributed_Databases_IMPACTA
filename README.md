@@ -10,6 +10,7 @@ NoSQL and Distributed Databases - Caso de Estudo NoSQL Documento (Silas Tailer)
 - Bianca Pereira de Lima Lourenço - 2301749
 - Vinícius Julio - 2500392
 - Leonardo Nascimento - 2501921
+- Alexandre Roberto - 1520357
 
 
 ---
